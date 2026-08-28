@@ -1,7 +1,7 @@
 # Akhil Jaitly
 
 **Senior Director, Operations** — AWS, network, datacenter, and systems teams at enterprise scale.
-**Independent builder** — AI agent tooling, contract intelligence, and personal-data platforms, shipped to production.
+**Hands-on technology leader** — architects and ships AI agent tooling, contract intelligence, and personal-data platforms to production, using AI-assisted development.
 
 Source is private. The work below is deployed and running. Live demos and architecture walkthroughs on request.
 
@@ -18,7 +18,7 @@ Source is private. The work below is deployed and running. Live demos and archit
 | **FinanceHub** | Personal finance — accounts, transactions, budgets, bills, savings goals with AI insights. | 🟢 Live | FastAPI · Claude · Next.js |
 | **ARIA** | Enterprise risk intelligence — unified anomaly, capacity, and vendor-risk scoring. | 🟡 Patent POC | FastAPI · Postgres 16 · Redis |
 
-*6 products shipped · 4 live in production · 2 patent-pending · 100% self-built and deployed.*
+*6 products architected and deployed · 4 live in production · 2 patent-pending · owned infrastructure, AI-assisted development.*
 
 ---
 
@@ -38,7 +38,7 @@ Ansible and Terraform automation for systems and network operations. Private and
 
 ### How I build
 
-- **Ship to production** — real infra, custom domains, SSO, CI. Not demos.
+- **Ship to production** — real infrastructure, custom domains, SSO, CI/CD.
 - **Provenance first** — extracted data carries its source; confidence gates route the uncertain to human review.
 - **Ops discipline** — secrets as refs, tenant isolation, fail-loud error handling, rollback plans.
 - **AI where it earns it** — Claude for extraction, insight, and agent tooling, with deterministic validation around the model.
@@ -49,5 +49,3 @@ Ansible and Terraform automation for systems and network operations. Private and
 ✉️ akhiljaitly@gmail.com
 
 > Repositories are private. Live links, architecture, and outcomes shared openly; source available on request under NDA.
-
-<!-- profile -->
