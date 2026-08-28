@@ -49,3 +49,5 @@ Ansible and Terraform automation for systems and network operations. Private and
 ✉️ akhiljaitly@gmail.com
 
 > Repositories are private. Live links, architecture, and outcomes shared openly; source available on request under NDA.
+
+<!-- profile -->
